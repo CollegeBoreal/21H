@@ -27,7 +27,7 @@
 |:---------------------------------------------------------------|:----------------------------------------------|:----------|
 | INF1075                                                        | Technologie réseautiques avancés              |           |
 | INF1076                                                        | Sécurité des réseaux                          |           |
-| [INF1086](https://github.com/CollegeBoreal/INF1086-200-21H-02) | Administration de bases de données            |           |
+| [INF1086](https://github.com/CollegeBoreal/INF1086-201-21H-01) | Administration de bases de données            |           |
 | [INF1087](https://github.com/CollegeBoreal/INF1087-200-21H-02) | Administration d'infrastructure informatique 1|           |
 | INF1088                                                        | Gestion de projets informatiques              |           |
 | [INF1089](https://github.com/CollegeBoreal/INF1089-200-21H-02) | Programmation de systèmes                     |           |
